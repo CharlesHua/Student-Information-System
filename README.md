@@ -1,6 +1,6 @@
 # Student-Information-System
 
-A simple example of link list to deal with student information.
+A simple example of **link list** to deal with student information.
 
 This is a project of the class (210522, USTC) for which I work as TA.
 
